@@ -5,9 +5,8 @@ Templates and Files <br>
 <br>
 <br>
 <br>
-We have 4 main users in our project.
-1.General User
-2.User who works under organisation (IAM User)
-3.Super user (root user)
+We have 4 main users in our project: <br>
+1.General User <br>
+2.User who works under organisation (IAM User) <br>
+3.Super user (root user) <br>
 4.Admin
-
